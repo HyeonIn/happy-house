@@ -77,4 +77,6 @@
     - 질문은 일반 회원만 가능
     - 답변은 관리자만 등록 가능
 
-## [시연 영상](https://youtu.be/GX3VZfi_wPU)
+## 시연 영상
+
+[![시연 영상](thumbnail.PNG)](https://youtu.be/GX3VZfi_wPU)
